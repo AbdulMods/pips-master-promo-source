@@ -14,7 +14,7 @@ export const metadata = {
     title: "PIPS MASTER - Elite Forex Trading Signals",
     description: "Professional forex trading signals with 82%+ win rate. Join thousands of successful traders.",
     type: "website",
-    url: "https://your-domain.com",
+    url: "https://t.me/+p1dgFWcTtdc4YjY8",
     images: [
       {
         url: "/images/pips-master-logo.jpg",
@@ -41,8 +41,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* Replace 'YOUR_PIXEL_ID' with your actual Meta Pixel ID */}
-        <MetaPixel pixelId="YOUR_PIXEL_ID" />
+        <MetaPixel pixelId="1445901916584929" />
       </head>
       <body className={`${inter.className} bg-gray-900 text-white overflow-x-hidden`}>{children}</body>
     </html>
